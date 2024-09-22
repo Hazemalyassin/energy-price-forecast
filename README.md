@@ -12,11 +12,7 @@ This project aims to predict energy prices for the day-ahead market to optimize 
      - Implementation of predictive models using XGBoost and Prophet to forecast energy prices.
      - Approaches for optimizing the battery asset based on the predictions.
 
-## How to Use
-1. **Data Preparation, Analysis, and Model Testing**:
-   - Open the `Energy_price_prediction.ipynb` notebook in Jupyter.
-   - Follow the steps in the notebook to explore the datasets, perform data cleaning and preprocessing, and develop predictive models.
-   - Adjust the notebook cells as needed to experiment with different model configurations and parameters.
+
 
 2. **Model Implementation**:
    - The notebook includes the implementation of two predictive models:
